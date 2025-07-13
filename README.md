@@ -69,8 +69,7 @@ clean and organized with minimal effort.</p>
 </ul>
 
 <p class=Code style='margin-left:.5in'>cp projanitor.py /home/tom/work/<span
-class=SpellE>ProjectA</span>/<span class=SpellE>ProjectA_build_scripts</span>/<span
-class=SpellE>House_cleaning</span>/</p>
+class=SpellE>ProjectA</span>/<span class=SpellE>ProjectA_scripts</span>/</p>
 
 <ul style='margin-top:0in' type=disc>
  <li class=MsoNormal style='mso-list:l4 level1 lfo3;tab-stops:list .5in'><b>Make
@@ -162,7 +161,7 @@ class=GramE>=.<span class=SpellE>git</span></span><span class=SpellE>,build</spa
 
 <p class=Code>Analyzing project files...</p>
 
-<p class=Code>Project root found at: /home//work/<span class=SpellE>ProjectA</span></p>
+<p class=Code>Project root found at: /home/tom/work/<span class=SpellE>ProjectA</span></p>
 
 <p class=Code><o:p>&nbsp;</o:p></p>
 
@@ -327,7 +326,7 @@ style='mso-spacerun:yes'>   </span>(</span>excluded)</p>
 <ul style='margin-top:0in' type=disc>
  <li class=MsoNormal style='mso-list:l6 level1 lfo6;tab-stops:list .5in'>Fork
      the repository: <span class=CodeChar><span style='font-size:10.0pt;
-     mso-bidi-font-size:12.0pt;line-height:115%'>https://github.com/your-username/projanitor</span></span></li>
+     mso-bidi-font-size:12.0pt;line-height:115%'>https://github.com/dyfcheng/projanitor</span></span></li>
  <li class=MsoNormal style='mso-list:l6 level1 lfo6;tab-stops:list .5in'>Create
      a feature branch: <span class=GramE><span class=CodeChar><span
      style='font-size:10.0pt;mso-bidi-font-size:12.0pt;line-height:115%'>git</span></span></span><span
@@ -363,7 +362,7 @@ style='mso-spacerun:yes'>   </span>(</span>excluded)</p>
 </ul>
 
 <p class=MsoNormal style='text-indent:.5in'><span class=CodeChar><span
-style='font-size:10.0pt;mso-bidi-font-size:12.0pt;line-height:115%'>/home/tom/work/ProjectA/ProjectA_build_scripts/House_cleaning/projanitor.py
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;line-height:115%'>/home/tom/work/ProjectA/ProjectA_scripts/projanitor.py
 --verbose</span></span></p>
 
 <ul style='margin-top:0in' type=disc>
